@@ -1,7 +1,7 @@
 # threebits_hackgenx
 Team ThreeBits working on BMS.
 
-<br><h3> Problem Statement: </h3></br> 
+<h3> Problem Statement: </h3> 
 > Most buildings still rely on outdated systems that operate blindly, without considering real-time needs or occupancy.
 
 > HVAC and lighting systems often run continuously, even when not required  leading to massive energy loss and increased carbon output.
