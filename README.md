@@ -1,7 +1,7 @@
 # threebits_hackgenx
 Team ThreeBits working on BMS.
 
-Problem Statement - 
+<br><h3> Problem Statement: </h3></br> 
 > Most buildings still rely on outdated systems that operate blindly, without considering real-time needs or occupancy.
 
 > HVAC and lighting systems often run continuously, even when not required  leading to massive energy loss and increased carbon output.
@@ -10,7 +10,8 @@ Problem Statement -
 
 > There is a clear need for affordable, AI-enabled, real-time control systems that can bring intelligent energy optimization to every building.
 
-Proposed Solution -
+
+Proposed Solution:
 An adaptable, end-to-end solution that turns conventional building systems into smart, AI-driven environments without needing a complete overhaul.
 
 1] Seamless Data Fusion
@@ -30,3 +31,9 @@ An adaptable, end-to-end solution that turns conventional building systems into 
 > A secure, cloud-connected control API relays optimized commands to building devices — like thermostats, variable drives, and lighting panels.
 
 > A sleek, web-based dashboard allows facility managers to track real-time vs predicted energy savings, with override options for manual control.
+
+source -
+https://www.iea.org/energy-system/buildings
+
+For More Information -
+https://tinyurl.com/hackgenx-threebits
