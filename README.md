@@ -70,3 +70,11 @@ https://tinyurl.com/hackgenx-threebits
 - [ ] Convert model
 - [ ] Integrate in ESP32-CAM
 
+> Flutter App (Android)
+
+- [x] Plan UI/UX
+- [x] Build HomePage
+- [x] Build LivingRoom Page
+- [ ] Simulate Living Room
+- [ ] Integrate with ESP32-CAM
+
