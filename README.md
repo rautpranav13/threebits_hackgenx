@@ -37,3 +37,31 @@ https://www.iea.org/energy-system/buildings
 
 For More Information -
 https://tinyurl.com/hackgenx-threebits
+
+
+# ToDo List
+
+> Installation
+
+- [x] Install Arduino IDE
+- [ ] Install ESP32 Board Manager
+
+> Configuration
+
+- [ ] Setup Arduino environment
+- [ ] Setup board parameters
+- [ ] Setup GitHub collaboration
+- [ ] Add and update README.md
+
+> Hardware
+
+- [ ] Connect ESP32-CAM to USB module
+- [ ] Connect ESP32-CAM
+- [ ] Power test with serial monitor
+- [ ] Check sensors
+
+> AI/ML Tasks
+
+- [ ] Collect BMS dataset
+- [ ] Train model
+- [ ] Convert model
