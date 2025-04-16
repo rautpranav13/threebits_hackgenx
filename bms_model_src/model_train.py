@@ -5,13 +5,13 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 # Load dataset
-df = pd.read_csv('/Users/rufbook/workss/bms/bms_dataset.csv', sep=',')
+df = pd.read_csv('/Users/rufbook/workss/threebits_hackgenx/bms_model_src/bms_dataset.csv', sep=',')
 
 # Preprocess features
 features = ['temperature', 'humidity', 'motion_detected']
 X = df[features].values.astype(np.float32)
 
-# Encode time features (e.g., hour of day)
+# Encode time features
 df['hour'] = pd.to_datetime(df['current_time']).dt.hour
 X_time = df[['hour']].values.astype(np.float32)
 X = np.hstack([X, X_time])
@@ -75,7 +75,7 @@ converter.inference_output_type = tf.int8
 tflite_model = converter.convert()
 
 # Save TFLite model
-with open('/Users/rufbook/workss/bms/bms_model.tflite', 'wb') as f:
+with open('/Users/rufbook/workss/threebits_hackgenx/bms_model_src/bms_model.tflite', 'wb') as f:
     f.write(tflite_model)
 
-print("TFLite model saved to /Users/rufbook/workss/bms/bms_model.tflite")
+print("TFLite model saved to /Users/rufbook/workss/threebits_hackgenx/bms_model_src/bms_model.tflite")
