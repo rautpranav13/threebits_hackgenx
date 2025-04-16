@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 # Load dataset
-df = pd.read_csv('/Users/rufbook/workss/threebits_hackgenx/bms_model_src/bms_dataset.csv', sep=',')
+df = pd.read_csv('/Users/rufbook/workss/threebits_hackgenx/bms_model_src/augmented_dataset.csv', sep=',')
 
 # Preprocess features
 features = ['temperature', 'humidity', 'motion_detected']
