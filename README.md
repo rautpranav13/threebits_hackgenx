@@ -11,8 +11,8 @@ Team ThreeBits working on BMS.
 > There is a clear need for affordable, AI-enabled, real-time control systems that can bring intelligent energy optimization to every building.
 
 
-Proposed Solution:
-An adaptable, end-to-end solution that turns conventional building systems into smart, AI-driven environments without needing a complete overhaul.
+<h3> Proposed Solution: </h3>
+> An adaptable, end-to-end solution that turns conventional building systems into smart, AI-driven environments without needing a complete overhaul.
 
 1] Seamless Data Fusion
 
@@ -38,31 +38,35 @@ https://www.iea.org/energy-system/buildings
 For More Information -
 https://tinyurl.com/hackgenx-threebits
 
----
-
 # ToDo List
 
 > Installation
 
-- [x] Install Arduino IDE
-- [ ] Install ESP32 Board Manager
+- [x] Install Arduino IDE and Drivers
+- [x] Android Studio with Flutter and Dart
+- [x] Python3.12 and datasets
 
 > Configuration
 
-- [ ] Setup Arduino environment
-- [ ] Setup board parameters
-- [ ] Setup GitHub collaboration
-- [ ] Add and update README.md
+- [x] Setup Arduino environment
+- [x] Setup board parameters
+- [x] Setup GitHub collaboration
+- [x] Add and update README.md
 
 > Hardware
 
-- [ ] Connect ESP32-CAM to USB module
-- [ ] Connect ESP32-CAM
-- [ ] Power test with serial monitor
-- [ ] Check sensors
+- [x] Connect ESP32-CAM to USB module via ESP32-CAM-MB
+- [x] Power test with serial monitor
+- [x] Check PIR motion sensor
+- [ ] Check LDR sensor
+- [ ] Check DHT22
+- [ ] Check ACS712
+- [ ] Connect Solar Panels
 
 > AI/ML Tasks
 
-- [ ] Collect BMS dataset
-- [ ] Train model
+- [x] Collect BMS dataset
+- [x] Train model
 - [ ] Convert model
+- [ ] Integrate in ESP32-CAM
+
