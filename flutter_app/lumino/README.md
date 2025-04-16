@@ -1,7 +1,5 @@
 # Lumino2
 
-A new Flutter project.
+New flutter app by team ThreeBits.
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+more app updates will be published soon.
