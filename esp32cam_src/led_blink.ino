@@ -1,4 +1,4 @@
-#define LED_PIN 33  // Onboard red LED on ESP32-CAM
+#define LED_PIN 33  
 
 void setup() {
   Serial.begin(115200);
