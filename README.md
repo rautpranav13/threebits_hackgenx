@@ -59,7 +59,7 @@ https://tinyurl.com/hackgenx-threebits
 - [x] Power test with serial monitor
 - [x] Check PIR motion sensor
 - [ ] Check LDR sensor
-- [ ] Check DHT22
+- [x] Check DHT22
 - [ ] Check ACS712
 - [ ] Connect Solar Panels
 
@@ -78,3 +78,8 @@ https://tinyurl.com/hackgenx-threebits
 - [ ] Simulate Living Room
 - [ ] Integrate with ESP32-CAM
 
+> Cloud Works
+
+- [x] Firebase Setup
+- [ ] GCP Setup
+- [ ] Data sync and integration
