@@ -78,4 +78,4 @@ tflite_model = converter.convert()
 with open('/Users/rufbook/workss/threebits_hackgenx/bms_model_src/bms_model.tflite', 'wb') as f:
     f.write(tflite_model)
 
-print("TFLite model saved to /Users/rufbook/workss/threebits_hackgenx/bms_model_src/bms_model.tflite")
+print("TFLite model is saved to /Users/rufbook/workss/threebits_hackgenx/bms_model_src/bms_model.tflite")
