@@ -58,16 +58,16 @@ https://tinyurl.com/hackgenx-threebits
 - [x] Connect ESP32-CAM to USB module via ESP32-CAM-MB
 - [x] Power test with serial monitor
 - [x] Check PIR motion sensor
-- [ ] Check LDR sensor
+- [x] Check LDR sensor
 - [x] Check DHT22
-- [ ] Check ACS712
+- [x] Check ACS712
 - [ ] Connect Solar Panels
 
 > AI/ML Tasks
 
 - [x] Collect BMS dataset
 - [x] Train model
-- [ ] Convert model
+- [x] Convert model
 - [ ] Integrate in ESP32-CAM
 
 > Flutter App (Android)
@@ -75,11 +75,11 @@ https://tinyurl.com/hackgenx-threebits
 - [x] Plan UI/UX
 - [x] Build HomePage
 - [x] Build LivingRoom Page
-- [ ] Simulate Living Room
+- [x] Simulate Living Room
 - [ ] Integrate with ESP32-CAM
 
 > Cloud Works
 
 - [x] Firebase Setup
-- [ ] GCP Setup
+- [x] GCP Setup
 - [ ] Data sync and integration
